@@ -1,2 +1,1 @@
-# springfox-webflux
-springfox webflux
+Navigate to http://localhost:8080/dave/swagger-ui.html and in 'tweet-controller' you will see global headers
